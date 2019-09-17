@@ -1,0 +1,23 @@
+@relation csv_thesis_data
+
+@data
+
+@attribute age real
+@attribute gender {f,m}
+@attribute SBP {a,b,c,d}
+@attribute DBP {a,b,c}
+@attribute diabetes {0,1}
+@attribute heart_diseases {0,1}
+@attribute race {a,t}
+@attribute F.H_stroke {0,1}
+@attribute alcoholic {0,1}
+@attribute Phy_active {0,1}
+@attribute smoking {0,1}
+@attribute depression {0,1}
+@attribute TG(up) {0,1}
+@attribute LDL(up) {0,1}
+@attribute HDL(dwn) {0,1}
+@attribute S_fat(up) {0,1}
+@attribute fibre(dwn) {0,1}
+@attribute CKD_kidney {0,1}
+@attribute attribute {0,1}

@@ -1,0 +1,37 @@
+Gender : m=0, f=1
+
+SBP: a= >120, b= 120-139, c=140-160, d=<160
+
+DBP: a=>80, b=80-94, c=<95
+
+Diabetes: Diabetic=1, non-diabetic=0
+
+Heart diseases: yes=1, no=0
+
+Race= asian=a, european=e, african=af, tribal=t
+
+F.H Stroke(Family history of stroke or TIA): yes=1, no=0
+
+Alchoholic(Alcohol or illegal drug use): yes=1, no=0
+
+Phy. Active( Lack of physical activity): yes=1, no=0
+
+Smoking: yes=1, no=0
+
+Depression(Stress and Depression): yes=1, no=0
+
+TG(up): yes=1, no=0
+
+LDL(up): yes=1, no=0
+
+HDL(up): yes=1, no=0
+
+S.fat(up): yes=1, no=0
+
+Fibre(dwn): yes=1, no=0
+
+CKD kidney: yes=1, no=0
+
+Attribute: stroke=1, non-stroke=0
+
+
